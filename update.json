@@ -16,10 +16,10 @@
 
     {
         "device_id": "baeedb4fc7ec55ea",
-        "username": "user2",
-        "password": "pass123",
+        "username": "2",
+        "password": "2",
         "expirydate": "15-06-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
         {
         "device_id": "device_id_2",
